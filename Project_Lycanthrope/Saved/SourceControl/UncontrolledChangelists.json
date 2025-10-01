@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/uni/game studio/Preproduction/Prototype 1/Project Lycanthrope/Project-Lycanthrope/Project_Lycanthrope/Content/LevelPrototyping/Levels/Dev_Level/Dev_level.umap",
+				"D:/uni/game studio/Preproduction/Prototype 1/Project Lycanthrope/Project-Lycanthrope/Project_Lycanthrope/Content/LevelPrototyping/Levels/Dev_Level/LV_Dev.umap",
+				"D:/uni/game studio/Preproduction/Prototype 1/Project Lycanthrope/Project-Lycanthrope/Project_Lycanthrope/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/uni/game studio/Preproduction/Prototype 1/Project Lycanthrope/Project-Lycanthrope/Project_Lycanthrope/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"D:/uni/game studio/Preproduction/Prototype 1/Project Lycanthrope/Project-Lycanthrope/Project_Lycanthrope/Content/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
