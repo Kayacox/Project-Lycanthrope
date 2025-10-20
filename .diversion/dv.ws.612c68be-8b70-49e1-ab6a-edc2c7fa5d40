@@ -1,0 +1,14 @@
+{
+  "WorkspaceID": "dv.ws.612c68be-8b70-49e1-ab6a-edc2c7fa5d40",
+  "RepoID": "dv.repo.75439365-a20d-435c-b58c-7dd518efffab",
+  "Path": "C:\\Project Lycanthrope",
+  "AccountID": "dv.u.747f59a0a36344fb",
+  "BranchID": "dv.branch.8",
+  "BranchName": "Dev_Commits",
+  "CommitID": "",
+  "Paused": false,
+  "ShouldDownload": true,
+  "RepoName": "Project Lycanthrope",
+  "ReadOnly": false,
+  "DigestMethod": "sha1"
+}
